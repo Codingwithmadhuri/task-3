@@ -5,7 +5,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Storage](https://img.shields.io/badge/Persistence-localStorage-F59E0B?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 [![Status](https://img.shields.io/badge/Status-Complete_%26_Verified-10B981?style=for-the-badge)](https://github.com/)
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_DEMO_LINK)
 ---
 
 ## 📌 Project Overview
